@@ -1,0 +1,16 @@
+.idea/
+*.iml
+.DB_Store
+.DB_Store?
+.DS_Store
+.DS_Store?
+*.log
+bin/
+data/tmp/*.*
+build/
+pkg/
+src/github.com/
+src/sourcegraph.com/
+src/andybalholm/
+src/andybalholm/cascadia
+src/golang.org/x/net
